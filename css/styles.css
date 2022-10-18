@@ -43,6 +43,14 @@
     margin-left: 2rem;
 }
 
+.icono{
+    margin-left: 24%;
+    margin-top: -15rem;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
 #password{
     margin-left: .3rem;
 }
